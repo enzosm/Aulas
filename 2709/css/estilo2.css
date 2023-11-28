@@ -1,0 +1,37 @@
+/* siginifica todos os componentes no css*/
+*
+{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* nav ul li a para acessar outros filhos*/
+.navbar
+{
+    background-color: blue;
+    padding: 10px 0;
+}
+
+.navbar-list
+{
+    list-style: none;
+    text-align: center;
+}
+
+.navbar-item
+{
+    display: inline-block;
+    margin-right: 50px ;
+}
+
+.navbar-item a
+{
+    text-decoration: none;
+    color: aliceblue;
+}
+
+.navbar-item a:hover
+{
+    color: yellow;
+}

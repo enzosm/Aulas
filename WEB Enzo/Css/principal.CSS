@@ -1,0 +1,51 @@
+body
+{
+    background-color: hsl(240, 100%, 50%);
+    font-size: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+}
+
+.logo
+{
+    background-color: hsl(240, 100%, 50%);
+    text-align: center;
+}
+
+.FipPay
+{
+    width: 200px;
+}
+
+.usuario{
+    text-align: center;
+}
+
+.senha{
+    text-align: center;
+}
+
+.cancelar
+{
+    text-align: center; 
+    color: white;
+}
+
+.cancelar input
+{
+    background-color: red;
+    color: white;
+}
+
+
+
+.login 
+{
+    text-align: center;
+}
+.login input
+{
+    background-color: green;
+    color: white;
+}
+

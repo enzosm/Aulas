@@ -1,0 +1,55 @@
+body
+{
+    background-color: rgba(0, 145, 255, 0.663);
+    font-size: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.rotapé
+{
+    background-color: hsl(240, 100%, 50%);
+    text-align: center;
+}
+nav
+{
+    background-color: hsl(240, 100%, 50%);
+    text-align: center;
+    padding: 10px;
+
+}
+
+nav ul
+{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+nav li
+{
+    display: inline;
+    margin-right: 20px;
+}
+
+nav ul li a:hover {
+    background-color: rgba(86, 255, 255, 0.616);
+    border-radius: 10PX;
+    font-size: 50px;
+}
+
+nav a
+{
+    color: white;
+    text-decoration: none;
+   
+}
+
+.titulo
+{
+    background-color: white;
+    color: black;
+}
+
+.dados
+{
+    background-color: white;
+}
